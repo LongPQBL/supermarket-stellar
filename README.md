@@ -21,8 +21,8 @@ Small-to-medium supermarket owners and their staff who want transparent, verifia
 
 1. **Clone the repository**
    ```bash
-   git clone <repo-url>
-   cd supermarket-project
+   git clone https://github.com/LongPQBL/supermarket-stellar.git
+   cd supermarket-stellar
    ```
 
 2. **Set up the smart contract**
@@ -44,7 +44,6 @@ Small-to-medium supermarket owners and their staff who want transparent, verifia
 4. **Open the app** at `http://localhost:5173` and connect your Stellar wallet (Freighter, xBull, or Hana).
 
 ## Team
-
 | Name | Telegram | Gmail | Background |
 |------|----------|-------|------------|
 | Long | @longphan810 | phannguyen161118@gmail.com| Quoc Hoc Hue High School Grade 12 |

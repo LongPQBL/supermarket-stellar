@@ -16,7 +16,8 @@ Small-to-medium supermarket owners and their staff who want transparent, verifia
 - Network: Stellar Testnet
 - Contract ID: CB5UAGRTUO2I6VDU2AXZLGQDZAYMTUZLXVWPFWDCY7T4VNDY7CZROV26
 - Transaction: https://stellar.expert/explorer/testnet/tx/8b568598af479a4029fcee2e1496e48ccb800be32f913f76fb814748d0847261
-<img width="1440" height="691" alt="image" src="https://github.com/user-attachments/assets/666c77b3-e56c-4290-870d-a4229913618d" />
+<img width="1428" height="607" alt="image" src="https://github.com/user-attachments/assets/479f3432-1a2a-44f7-83a8-609ecf415023" />
+
 
 
 ## How to Run
